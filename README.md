@@ -27,13 +27,13 @@ limits.
 
 mods included 
 
-complications by Tomas Danko
-feel by firefox
-jagtitle by nuke
-axelf by unknown 
-macrocosm by firefox
-belevme by bbd 
-saturation by uncle ben
-quadrangular_ball by uncle ben
-jarresque by heatbeat 
-Monty-Hiscore.mod cover by romeo knight original by Rob Hubbard 
+- complications by Tomas Danko
+- feel by firefox
+- jagtitle by nuke
+- axelf by unknown 
+- macrocosm by firefox
+- belevme by bbd 
+- saturation by uncle ben
+- quadrangular_ball by uncle ben
+- jarresque by heatbeat 
+- Monty-Hiscore.mod cover by romeo knight original by Rob Hubbard 
