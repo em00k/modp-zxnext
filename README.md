@@ -6,6 +6,8 @@ Mike's git here : https://github.com/mikedailly/mod_player
 
 https://www.youtube.com/watch?v=Xo5NORTXqXs
 
+Note playback rate is 12750 mono, samples will be "resampled"
+
 .modp will play Amiga MOD files, currently not all effects are supported. 
 Effects 1,2,B,C,D,F are supported. Some MODs will require adjustments.  
 
