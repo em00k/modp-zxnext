@@ -1,6 +1,8 @@
 # modp-zxnext
  Amiga Module Player dotcommand for the ZX Spectrum Next - NO pi0 required
 
+As always best resulst on hardware.
+
 .modp by David Saphier / em00k  - ModPlayer by Mike Dailly (c)2020
 Mike's git here : https://github.com/mikedailly/mod_player
 
