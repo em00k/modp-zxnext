@@ -12,6 +12,10 @@ Effects 1,2,B,C,D,F are supported. Some MODs will require adjustments.
 requires modvol.dat file in /SYS, this has been included. 
 modp should be placed in to your /DOT folder
 
+Please note that banks 16 onwards are used depending onm the size of
+the module. Banks 16-17 are backed up and restored on exit. Next Basic
+should assign back from the end of RAM. This may change in time.
+
 run the demo modp-example.bas 
 
 Usage :
