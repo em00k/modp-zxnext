@@ -1,8 +1,10 @@
 # modp-zxnext
- Amiga Module Player dotccomand for the ZX Spectrum Next
+ Amiga Module Player dotcommand for the ZX Spectrum Next
 
 .modp by David Saphier / em00k  - ModPlayer by Mike Dailly (c)2020
 Mike's git here : https://github.com/mikedailly/mod_player
+
+https://www.youtube.com/watch?v=Xo5NORTXqXs
 
 .modp will play Amiga MOD files, currently not all effects are supported. 
 Effects 1,2,B,C,D,F are supported. Some MODs will require adjustments.  
