@@ -4,6 +4,8 @@ Mike's git here : https://github.com/mikedailly/mod_player
 .modp will play Amiga MOD files, currently not all effects are supported. 
 Effects 1,2,B,C,D,F are supported. Some MODs will require adjustments.  
 
+As always best resulst on hardware.
+
 requires modvol.dat file in /SYS, this has been included. 
 modp should be placed in to your /DOT folder
 
